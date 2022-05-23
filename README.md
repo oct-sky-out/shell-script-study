@@ -1,0 +1,1 @@
+### shell script를 배우자
